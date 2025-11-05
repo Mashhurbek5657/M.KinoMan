@@ -1,0 +1,233 @@
+{
+    "movies": [
+        {
+            "name": "Мегалодон",
+            "image": "https://i.ytimg.com/vi/Idh8n5XuYIA/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=N9fGXS9qBb4",
+            "description": "Мегалодон (кино 2023) Хоррор о неуловимом монстре в духе «Челюстей»"
+          },
+          {
+            "name": "The Creator",
+            "image": "https://i.ytimg.com/vi/ex3C1-5Dhb8/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=ex3C1-5Dhb8",
+            "description": "Insoniyat va sun’iy intellekt o‘rtasidagi urush kelajagini belgilaydi."
+          },
+          {
+            "name": "Killers of the Flower Moon",
+            "image": "https://i.ytimg.com/vi/EP34Yoxs3FQ/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=EP34Yoxs3FQ",
+            "description": "1920-yillardagi Osage qotilliklari haqidagi haqiqiy voqea."
+          },
+          {
+            "name": "Tenet",
+            "image": "https://i.ytimg.com/vi/LdOM0x0XDMo/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=LdOM0x0XDMo",
+            "description": "Vaqtni orqaga qaytarish orqali dunyoni saqlab qolish missiyasi."
+          },
+          {
+            "name": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "image": "https://i.ytimg.com/vi/NxW_X4kzeus/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=NxW_X4kzeus",
+            "description": "Kapitol o‘yinlarining kelib chiqishi va yosh Snowning hikoyasi."
+          },
+          {
+            "name": "Barbie",
+            "image": "https://i.ytimg.com/vi/pBk4NYhWNMM/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=pBk4NYhWNMM",
+            "description": "Barbi real dunyoga kirib, o‘z mohiyatini kashf etadi."
+          },
+          {
+            "name": "Wonka",
+            "image": "https://i.ytimg.com/vi/otNh9bTjXWg/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=otNh9bTjXWg",
+            "description": "Yosh Uilli Vonka shokolad imperiyasining boshlanishini yaratadi."
+          },
+          {
+            "name": "Indiana Jones and the Dial of Destiny",
+            "image": "https://i.ytimg.com/vi/eQfMbSe7F2g/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=eQfMbSe7F2g",
+            "description": "Indiana Jons vaqtni o‘zgartiruvchi artefaktni izlab sarguzashtga chiqadi."
+          },
+          {
+            "name": "Blue Beetle",
+            "image": "https://i.ytimg.com/vi/vS3_72Gb-bI/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=vS3_72Gb-bI",
+            "description": "Jaime Reyes tasodifan kosmik texnologiyali superqahramonga aylanadi."
+          },
+          {
+            "name": "The Little Mermaid",
+            "image": "https://i.ytimg.com/vi/kpGo2_d3oYE/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=kpGo2_d3oYE",
+            "description": "Ariel inson dunyosini orzu qilib, muhabbatni tanlaydi."
+          },
+          {
+            "name": "The Super Mario Bros. Movie",
+            "image": "https://i.ytimg.com/vi/TnGl01FkMMo/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=TnGl01FkMMo",
+            "description": "Mario va Luiyi boshqa olamni qutqarish uchun sarguzashtga chiqadi."
+          },
+          {
+            "name": "The Whale",
+            "image": "https://i.ytimg.com/vi/nWiQodhMvz4/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=nWiQodhMvz4",
+            "description": "Og‘ir holatdagi o‘qituvchi o‘z qizini kechirishni istaydi."
+          },
+          {
+            "name": "65",
+            "image": "https://i.ytimg.com/vi/bHXejJq5vr0/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=bHXejJq5vr0",
+            "description": "Uzoq sayyorada halokatdan so‘ng tirik qolgan ikki inson dinozavrlar bilan kurashadi."
+          },
+          {
+            "name": "The Nun II",
+            "image": "https://i.ytimg.com/vi/QF-oyCwaArU/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=QF-oyCwaArU",
+            "description": "Valak ruhoniyni qayta dahshatga soladi."
+          },
+          {
+            "name": "Meg 2: The Trench",
+            "image": "https://i.ytimg.com/vi/dG91B3hHyY4/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=dG91B3hHyY4",
+            "description": "Jonas Taylor okean tubidagi yirtqich maxluqlar bilan to‘qnashadi."
+          },
+          {
+            "name": "Elemental",
+            "image": "https://i.ytimg.com/vi/hXzcyx9V0xw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=hXzcyx9V0xw",
+            "description": "Olov va suv unsurlari o‘rtasidagi kutilmagan do‘stlik haqida."
+          },
+          {
+            "name": "Haunted Mansion",
+            "image": "https://i.ytimg.com/vi/A1s6F8zH-MA/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=A1s6F8zH-MA",
+            "description": "Bir ayol o‘z uyidagi jinlar bilan kurashadi."
+          },
+          {
+            "name": "Gran Turismo",
+            "image": "https://i.ytimg.com/vi/GVPzGBvPrzw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=GVPzGBvPrzw",
+            "description": "O‘yinchi haqiqiy poyga haydovchisiga aylanish yo‘lida sarguzashtga kirishadi."
+          },
+      {
+        "name": "Jumong 1-qism",
+        "image": "https://i.ytimg.com/vi/im4FjmUGQxA/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=im4FjmUGQxA",
+        "description": "Jumong saltanatining boshlanishi haqida birinchi qism."
+      },
+      {
+        "name": "Avatar: The Way of Water",
+        "image": "https://i.ytimg.com/vi/d9MyW72ELq0/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=d9MyW72ELq0",
+        "description": "Pandora sayyorasiga qaytgan Jeyk Salli va uning oilasi yangi xavflarga duch keladi."
+      },
+      {
+        "name": "Extraction 2",
+        "image": "https://i.ytimg.com/vi/Y274jZs5s7s/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=Y274jZs5s7s",
+        "description": "Tyler Rake yangi xavfli missiyada yana hayot va o‘lim o‘rtasida kurashadi."
+      },
+      {
+        "name": "Oppenheimer",
+        "image": "https://i.ytimg.com/vi/uYPbbksJxIg/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+        "description": "Atom bombasining yaratilishi va uning oqibatlari haqida dramatik hikoya."
+      },
+      {
+        "name": "Inception",
+        "image": "https://i.ytimg.com/vi/YoHD9XEInc0/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+        "description": "Tushlar ichida yashirin haqiqatlar va ongni boshqarish sirlari haqida."
+      },
+      {
+        "name": "Interstellar",
+        "image": "https://i.ytimg.com/vi/zSWdZVtXT7E/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+        "description": "Insoniyatning omon qolishi uchun yulduzlar orasidagi sarguzasht."
+      },
+      {
+        "name": "John Wick 4",
+        "image": "https://i.ytimg.com/vi/qEVUtrk8_B4/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=qEVUtrk8_B4",
+        "description": "Jon Uik o‘z erkinligi uchun yakuniy jangga kirishadi."
+      },
+      {
+        "name": "Fast X",
+        "image": "https://i.ytimg.com/vi/32RAq6JzY-w/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=32RAq6JzY-w",
+        "description": "Dominik Toretto va jamoasi yangi dushman bilan to‘qnashadi."
+      },
+      {
+        "name": "Spider-Man: No Way Home",
+        "image": "https://i.ytimg.com/vi/JfVOs4VSpmA/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=JfVOs4VSpmA",
+        "description": "Olamlar to‘qnashuvida uchta o‘rgimchak odam birlashadi."
+      },
+      {
+        "name": "Doctor Strange in the Multiverse of Madness",
+        "image": "https://i.ytimg.com/vi/aWzlQ2N6qqg/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+        "description": "Doktor Strenj multiverse orqali xavfli sayohatga chiqadi."
+      },
+      {
+        "name": "Black Panther: Wakanda Forever",
+        "image": "https://i.ytimg.com/vi/_Z3QKkl1WyM/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+        "description": "Vaqt va yo‘qotishlar fonida yangi qahramonlar paydo bo‘ladi."
+      },
+      {
+        "name": "The Batman",
+        "image": "https://i.ytimg.com/vi/mqqft2x_Aa4/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=mqqft2x_Aa4",
+        "description": "Batman yangi jinoyatlar ortidagi sirni fosh qiladi."
+      },
+      {
+        "name": "The Matrix Resurrections",
+        "image": "https://i.ytimg.com/vi/9ix7TUGVYIo/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=9ix7TUGVYIo",
+        "description": "Neo yana Matritsaga qaytadi, lekin bu safar haqiqat boshqacha."
+      },
+      {
+        "name": "Dune: Part One",
+        "image": "https://i.ytimg.com/vi/n9xhJrPXop4/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=n9xhJrPXop4",
+        "description": "Arrakis sayyorasidagi kuch va taqdir uchun jang."
+      },
+      {
+        "name": "Guardians of the Galaxy Vol. 3",
+        "image": "https://i.ytimg.com/vi/u3V5KDHRQvk/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=u3V5KDHRQvk",
+        "description": "Galaktika qahramonlari do‘stlik va sadoqatni sinovdan o‘tkazadi."
+      },
+      {
+        "name": "Mission: Impossible – Dead Reckoning",
+        "image": "https://i.ytimg.com/vi/avz06PDqDbM/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=avz06PDqDbM",
+        "description": "Eton Xant yangi xavfli topshiriqni bajaradi."
+      },
+      {
+        "name": "The Flash",
+        "image": "https://i.ytimg.com/vi/hebWYacbdvc/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=hebWYacbdvc",
+        "description": "Barry Allen vaqtni o‘zgartirishga urinadi — va bu kutilmagan oqibatlarga olib keladi."
+      },
+      {
+        "name": "Transformers: Rise of the Beasts",
+        "image": "https://i.ytimg.com/vi/itnqEauWQZM/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=itnqEauWQZM",
+        "description": "Avtobotlar va yangi hayvon shaklidagi robotlar Yer uchun jang qiladi."
+      },
+      {
+        "name": "Aquaman and the Lost Kingdom",
+        "image": "https://i.ytimg.com/vi/UGc5Tzz19UY/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=UGc5Tzz19UY",
+        "description": "Akvamen o‘z qirolligini himoya qilish uchun yana jangga kirishadi."
+      },
+      {
+        "name": "The Marvels",
+        "image": "https://i.ytimg.com/vi/wS_qbDztgVY/maxresdefault.jpg",
+        "video": "https://www.youtube.com/watch?v=wS_qbDztgVY",
+        "description": "Kapitan Marvel, Monika va Kamala o‘z kuchlarini birlashtiradi."
+      }
+    ]
+  }
+  

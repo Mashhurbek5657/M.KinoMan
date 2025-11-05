@@ -1,0 +1,29 @@
+{
+    "movies": [
+        {
+            "name": "Мегалодон",
+            "image": "https://i.ytimg.com/vi/Idh8n5XuYIA/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=N9fGXS9qBb4",
+            "description": "Мегалодон (кино 2023) Хоррор о неуловимом монстре в духе «Челюстей»"
+          },
+          {
+            "name": "The Creator",
+            "image": "https://i.ytimg.com/vi/ex3C1-5Dhb8/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=ex3C1-5Dhb8",
+            "description": "Insoniyat va sun’iy intellekt o‘rtasidagi urush kelajagini belgilaydi."
+          },
+          {
+            "name": "Killers of the Flower Moon",
+            "image": "https://i.ytimg.com/vi/EP34Yoxs3FQ/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=EP34Yoxs3FQ",
+            "description": "1920-yillardagi Osage qotilliklari haqidagi haqiqiy voqea."
+          },
+          {
+            "name": "Tenet",
+            "image": "https://i.ytimg.com/vi/LdOM0x0XDMo/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=LdOM0x0XDMo",
+            "description": "Vaqtni orqaga qaytarish orqali dunyoni saqlab qolish missiyasi."
+          }
+    ]
+  }
+  
